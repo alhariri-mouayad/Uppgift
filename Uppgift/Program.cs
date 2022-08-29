@@ -1,6 +1,6 @@
 ﻿Console.Write("Mata in ditt efternamn: ");
-string namn = Console.ReadLine();
+string efternamn = Console.ReadLine();
 
 Console.Write("Mata in ditt förnamn: ");
-string efternamn = Console.ReadLine();
+string namn = Console.ReadLine();
 Console.WriteLine($"Hej {namn} {efternamn}");
